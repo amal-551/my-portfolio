@@ -263,7 +263,7 @@ function App() {
         <div className="engage-modules">
           <article className="engage-module">
             <figure className="module-image participant-image">
-              <img src="/images/allengage%20participant%20survey.jpg" alt="Participant Survey dashboard with engagement indicators, sentiment charts, and workforce trends" loading="lazy" />
+              <img src="/images/allengage-participant-survey.jpg" alt="Participant Survey dashboard with engagement indicators, sentiment charts, and workforce trends" loading="lazy" />
             </figure>
             <div className="module-content">
               <p className="module-kicker">01 / LISTEN TO YOUR CURRENT WORKFORCE</p>
@@ -281,7 +281,7 @@ function App() {
 
           <article className="engage-module exit-module" id="exit-lens">
             <figure className="module-image exit-image">
-              <img src="/images/exit%20lens.jpg" alt="Exit Lens dashboard summarizing interview completion, reasons for leaving, and employee feedback" loading="lazy" />
+              <img src="/images/exit-lens.jpg" alt="Exit Lens dashboard summarizing interview completion, reasons for leaving, and employee feedback" loading="lazy" />
             </figure>
             <div className="module-content">
               <p className="module-kicker">02 / LEARN FROM DEPARTING EMPLOYEES</p>
@@ -296,7 +296,7 @@ function App() {
               </ul>
             </div>
             <figure className="module-gallery">
-              <img src="/images/exit-lens1.jpg" alt="Additional Exit Lens analytics views with cross-analysis, confidence and concern factors, and response breakdowns" loading="lazy" />
+              <img src="/images/exit-lens-analytics.jpg" alt="Additional Exit Lens analytics views with cross-analysis, confidence and concern factors, and response breakdowns" loading="lazy" />
               <figcaption>Exit Lens · Cross-analysis and feedback patterns</figcaption>
             </figure>
           </article>
